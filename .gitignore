@@ -1,0 +1,19 @@
+.vscode/
+.DS_Store
+*.pyc
+__pycache__/
+node_modules/
+dist/
+build/
+.arduino/
+arduino_build_*/
+arduino_cache_*/
+
+# Ignore documents and PDFs
+*.md
+*.docx
+*.pdf
+*.doc
+
+# Except for the README
+!README.md
